@@ -1,4 +1,4 @@
-# APP DE LISTAGEM DE POST'S
+# APP DE LISTAGEM DE FILMES
 
 <h3>Simples aplicativo para listagem de filmes atraves da API
 <a href="https://www.themoviedb.org">The Movie Database (TMDB)</a>.
