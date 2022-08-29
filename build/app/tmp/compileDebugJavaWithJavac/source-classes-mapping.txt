@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/risasa/flutter_movie_app/BuildConfig.java
+ com.risasa.flutter_movie_app.BuildConfig
